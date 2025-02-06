@@ -2,7 +2,7 @@
 // 3.Экспорт из модуля game класса Game в качестве дефолтного,
 // класса GameSavingData и функций readGameSaving и writeGameSaving
 
-// import sum from './basic';
+
  import Character from './domain';
 
 
